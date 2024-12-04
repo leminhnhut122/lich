@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lich/static/css/main.d8172217.css",
+    "main.js": "/lich/static/js/main.959f8647.js",
+    "index.html": "/lich/index.html",
+    "main.d8172217.css.map": "/lich/static/css/main.d8172217.css.map",
+    "main.959f8647.js.map": "/lich/static/js/main.959f8647.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8172217.css",
+    "static/js/main.959f8647.js"
+  ]
+}
